@@ -1,0 +1,34 @@
+# Dependencias
+node_modules/
+vendor/
+
+# Variables de entorno (se sube solo el .env.example)
+.env
+.env.*
+!.env.example
+
+# Compilados
+dist/
+build/
+.next/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+
+# Temporales de Office
+~$*
