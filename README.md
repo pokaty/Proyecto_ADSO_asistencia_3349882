@@ -6,9 +6,9 @@ Aplicación para el control de asistencias de los aprendices del programa ADSO (
 
 | Nombre | Rol |
 |---|---|
-| _Nombre 1_ | Frontend |
-| _Nombre 2_ | Backend |
-| _Nombre 3_ | Base de datos |
+| _Valeria Galindo Hernandez_ | Frontend |
+| _Yeison Valencia Zapata_ | Backend |
+| _Emmanuel Grajales Molina_ | Base de datos |
 
 La documentación está repartida entre los tres integrantes. Todos pueden apoyar en cualquier área.
 
